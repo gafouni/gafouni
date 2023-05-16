@@ -1,4 +1,4 @@
-### 👋 Salut, je m'appelle Awa
+## 👋 Salut, je m'appelle Awa
 
 
 <!--
@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - Je suis disponible pour collaborer sur des projets de développement d'application web utilisant Symfony ou tout autre langage de programmation backend
 
 - 📫 Contactez-moi:  
-[linkedIn](https://www.linkedin.com/in/haoua-abouna/) [Email](haouabouna@gmail.com)  
+[![linkedin_logo_icon_189225 (1)](https://github.com/gafouni/gafouni/assets/99189224/bee25be3-1c3f-4f4c-8761-6eb0d4a9aa04)
+](https://www.linkedin.com/in/haoua-abouna/)  [![metro_email_11435](https://github.com/gafouni/gafouni/assets/99189224/56f6c111-ff35-40bd-a320-149a795a8c52)
+](haouabouna@gmail.com)  
 
 
 - ⚡ Langages et outils:  
