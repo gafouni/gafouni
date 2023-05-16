@@ -27,8 +27,16 @@ Je suis disponible pour collaborer sur des projets de développement d'applicati
 
 
 Mes compétences:  
+![image](https://github.com/gafouni/gafouni/assets/99189224/bb2da6e6-f72c-4b3a-bc86-92861f1aca93) ![image](https://github.com/gafouni/gafouni/assets/99189224/ff7632d5-517d-40b6-be9b-cb6de7130750) ![image](https://github.com/gafouni/gafouni/assets/99189224/6f4de70a-44a5-4758-9730-4a9920e8d465) ![pngimg com - php_PNG12](https://github.com/gafouni/gafouni/assets/99189224/5c0177b4-9b12-471e-8ffb-665633eef1e3) ![symfony-logo](https://github.com/gafouni/gafouni/assets/99189224/21bc6d6f-9368-4efe-97ca-12cd9b870724) ![image](https://github.com/gafouni/gafouni/assets/99189224/26a7c1cd-cf08-4c47-8a37-e36147732a14) ![image](https://github.com/gafouni/gafouni/assets/99189224/1445f923-73ff-41b7-90fb-05e5137ec461) ![image](https://github.com/gafouni/gafouni/assets/99189224/d6b75b09-f10a-4223-aae4-c5cb3c04cffe) ![image](https://github.com/gafouni/gafouni/assets/99189224/789a7700-a590-4b0f-b99a-fb9ad4c71855)
 
-[![image](https://github.com/gafouni/gafouni/assets/99189224/0d90cb7e-bdbe-4cbf-924a-4ac25aba7037)] ![image](https://github.com/gafouni/gafouni/assets/99189224/c9d06a48-2db6-47b7-8b76-33072eae4c21) ![image](https://github.com/gafouni/gafouni/assets/99189224/c1a1df5c-96fd-4d08-b873-d44c0e201afe) ![image](https://github.com/gafouni/gafouni/assets/99189224/24167695-6e39-4967-be9b-0d02c8c45395) ![image](https://github.com/gafouni/gafouni/assets/99189224/661e3d06-0e88-432c-9ad5-cf95b77ccc3e) ![image](https://github.com/gafouni/gafouni/assets/99189224/980924bd-48e9-4755-b5f2-0e9a79200c6e) ![image](https://github.com/gafouni/gafouni/assets/99189224/007f0f13-e83d-4089-aedd-29c6706b340d) ![symfony-logo](https://github.com/gafouni/gafouni/assets/99189224/6919c2a2-2285-4193-ac20-164618741ab0)
+
+
+
+
+
+
+
+
 
 
 
